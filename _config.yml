@@ -4,24 +4,23 @@
 
 
 
-
 ###
 ###  COURSE INFO
 ###
 
 
 github_info:
-    username:       DS4PS   # GitHub account name
-    branch:         master
+    username:       lecy   # GitHub account name
+    branch:         main
     website-repo:   intro-data-science-TEMPLATE
     course-repo:    intro-data-science-TEMPLATE
  
 description:        Intro. course in data science
 
-url:                "https://ds4ps.github.io"
+url:                "https://lecy.github.io"
 baseurl:            "/intro-data-science-TEMPLATE"
-course_url:         "https://ds4ps.github.io/intro-data-science-TEMPLATE/"
-title:              ds4ps   # GitHub account name
+course_url:         "https://lecy.github.io/testtesttest/"
+title:              lecy   # GitHub account name
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
@@ -48,13 +47,13 @@ program-website:    "https://ds4ps.org/ms-prog-eval-data-analytics/courses/"
 ###
 
 author:
-    name:       Jamison Crawford
-    github:     jamisoncrawford   # Github username for avatar
+    name:       Jesse Lecy
+    github:     lecy   # Github username for avatar
 
 
 # app for scheduling virtual office hours appointments
 
-calendly:      'https://calendly.com/jamisoncrawford/20min'
+calendly:      'https://calendly.com/username'
 
 
 
