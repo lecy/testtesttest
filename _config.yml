@@ -12,13 +12,13 @@
 github_info:
     username:       lecy   # GitHub account name
     branch:         main
-    website-repo:   intro-data-science-TEMPLATE
-    course-repo:    intro-data-science-TEMPLATE
+    website-repo:   testtesttest
+    course-repo:    testtesttest
  
 description:        Intro. course in data science
 
 url:                "https://lecy.github.io"
-baseurl:            "/intro-data-science-TEMPLATE"
+baseurl:            "testtesttest"
 course_url:         "https://lecy.github.io/testtesttest/"
 title:              lecy   # GitHub account name
 
